@@ -6,7 +6,7 @@ This project implements a fuzzy logic-based decision system to control a sprinkl
 -Uses fuzzy logic for intelligent decision-making.
 -Considers three inputs: Soil Moisture, Temperature, and Humidity.
 -Provides an adjustable sprinkling level (0% - 100%).
-- Visualizes membership functions and fuzzy inference.
+-Visualizes membership functions and fuzzy inference.
 -Implements test cases to demonstrate real-world behavior.
 
 
@@ -25,9 +25,9 @@ Fuzzy Output Variable
 
 Fuzzy Rules
 
-If soil is dry and temperature is hot and humidity is low, sprinkling should be high
-If soil is moist and temperature is warm, sprinkling should be medium
-If soil is wet, sprinkling should be low
+If soil is dry and temperature is hot and humidity is low, sprinkling should be high.
+If soil is moist and temperature is warm, sprinkling should be medium.
+If soil is wet, sprinkling should be low.
 
 
 #Installation & Usage
