@@ -1,11 +1,13 @@
 # Fuzzy Logic-Based Sprinkler System
 This project implements a fuzzy logic-based decision system to control a sprinkler system based on environmental factors such as soil moisture, temperature, and humidity. Using scikit-fuzzy, the system determines the optimal sprinkling level to maintain ideal soil conditions while conserving water.
+
 #Features
--Uses fuzzy logic for intelligent decision-making
--Considers three inputs: Soil Moisture, Temperature, and Humidity
--Provides an adjustable sprinkling level (0% - 100%)
-- Visualizes membership functions and fuzzy inference
--Implements test cases to demonstrate real-world behavior
+-Uses fuzzy logic for intelligent decision-making.
+-Considers three inputs: Soil Moisture, Temperature, and Humidity.
+-Provides an adjustable sprinkling level (0% - 100%).
+- Visualizes membership functions and fuzzy inference.
+-Implements test cases to demonstrate real-world behavior.
+
 
 #How It Works
 This system follows these steps:
